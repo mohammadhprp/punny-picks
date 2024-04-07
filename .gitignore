@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+.jupyter/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+models/
+
+# Virtual environment
+venv/
+.env
+
+# Logs and other generated files
+logs/
+*.log
+*.txt
+*.html
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
