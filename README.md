@@ -33,10 +33,9 @@ This project utilizes the following technologies:
 
 This repository includes code for:
 
-* Data loading and pre-processing (replace with your data handling steps)
-* Exploratory data analysis (using libraries like seaborn)
-* Feature engineering (if applicable)
-* Model training with various algorithms (Logistic Regression, KNN, Random Forest)
-* Hyperparameter tuning (using RandomizedSearchCV)
-* Model evaluation metrics (confusion matrix, classification report, precision, recall, F1-score, ROC curve)
-
+* Data loading and pre-processing 
+* Exploratory data analysis
+* Feature engineering
+* Model training with various algorithms
+* Hyperparameter tuning
+* Model evaluation metrics
